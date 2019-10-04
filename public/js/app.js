@@ -1,0 +1,1 @@
+console.log('This is the cleint side js file')
